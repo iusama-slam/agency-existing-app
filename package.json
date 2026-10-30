@@ -1,0 +1,6 @@
+{
+  "name": "lead-app",
+  "scripts": {
+    "dev": "node server.js"
+  }
+}
